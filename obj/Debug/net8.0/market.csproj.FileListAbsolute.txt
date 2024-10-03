@@ -1,0 +1,14 @@
+/home/necmi/c#/market/bin/Debug/net8.0/market
+/home/necmi/c#/market/bin/Debug/net8.0/market.deps.json
+/home/necmi/c#/market/bin/Debug/net8.0/market.runtimeconfig.json
+/home/necmi/c#/market/bin/Debug/net8.0/market.dll
+/home/necmi/c#/market/bin/Debug/net8.0/market.pdb
+/home/necmi/c#/market/obj/Debug/net8.0/market.GeneratedMSBuildEditorConfig.editorconfig
+/home/necmi/c#/market/obj/Debug/net8.0/market.AssemblyInfoInputs.cache
+/home/necmi/c#/market/obj/Debug/net8.0/market.AssemblyInfo.cs
+/home/necmi/c#/market/obj/Debug/net8.0/market.csproj.CoreCompileInputs.cache
+/home/necmi/c#/market/obj/Debug/net8.0/market.dll
+/home/necmi/c#/market/obj/Debug/net8.0/refint/market.dll
+/home/necmi/c#/market/obj/Debug/net8.0/market.pdb
+/home/necmi/c#/market/obj/Debug/net8.0/market.genruntimeconfig.cache
+/home/necmi/c#/market/obj/Debug/net8.0/ref/market.dll
